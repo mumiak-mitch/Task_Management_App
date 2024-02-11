@@ -5,3 +5,4 @@ from .models import Task
 
 class TaskView(viewsets.ModelViewSet):
     serializer_class = TaskSerializers
+    queryset = Task.objects.all()
