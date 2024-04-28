@@ -119,7 +119,7 @@ USE_TZ = True
 
 # Whitelisting react port
 CORS_ORIGIN_WHITELIST = (
-    'http://localhost:3000',
+    'http://localhost:5173',
 )
 
 # Static files (CSS, JavaScript, Images)
