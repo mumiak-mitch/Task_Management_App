@@ -9,7 +9,7 @@ To run the project, follow these steps:
 1. **Frontend:**
    - Navigate to the `frontend` directory in your terminal.
    - Run `npm install` to install dependencies.
-   - After installation, run `npm start` to start the frontend server.
+   - After installation, run `npm run dev` to start the frontend server.
    - Open your browser and navigate to [http://localhost:5173/](http://localhost:5173/) to access the frontend.
 
 2. **Backend:**
@@ -22,3 +22,7 @@ To run the project, follow these steps:
      - [http://127.0.0.1:9000/api/tasks/](http://127.0.0.1:9000/api/tasks/)
 
 Ensure both the frontend and backend servers are running to interact with the Task Management App effectively.
+
+### Accessing the application
+
+Open your browser and navigate to [http://localhost:5173/](http://localhost:5173/).
